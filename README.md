@@ -1,6 +1,6 @@
 # Interaction Logic Testing Task
 
-This repository contains a **technical test assignment** for QA Engineer candidate Evgeniya Turtschina at Arsipa.  
+This repository contains a **technical test assignment** for QA Engineer candidate Evgeniya Turtschina.  
 The [task](TaskDescription.md) is to code up a basic function that replicates the interaction of the battery and the throttle and to describe how I would approach testing the interaction between this two components.
 
 ---
